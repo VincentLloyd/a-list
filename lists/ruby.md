@@ -1,11 +1,11 @@
 # Ruby
   ### Cheat Sheets
   * by Shortcutfoo.com
-    * [Arrays](https://www.shortcutfoo.com/app/dojos/ruby-dates/cheatsheet)
-    * [Dates](https://www.shortcutfoo.com/app/dojos/ruby-arrays/cheatsheet)
-    * [DateFormat (strftime)](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
+    * [Arrays](https://www.shortcutfoo.com/app/dojos/ruby-arrays/cheatsheet)
+    * [Dates](https://www.shortcutfoo.com/app/dojos/ruby-dates/cheatsheet)
+    * [DateFormat (strftime)](https://www.shortcutfoo.com/app/dojos/ruby-date-format-strftime/cheatsheet)
     * [Hashes](https://www.shortcutfoo.com/app/dojos/ruby-hashes/cheatsheet)
-    * [Strings](https://www.shortcutfoo.com/app/dojos/ruby-date-format-strftime/cheatsheet)
+    * [Strings](https://www.shortcutfoo.com/app/dojos/ruby-strings/cheatsheet)
   ### Concepts
   * [Immutability in Ruby](http://valve.github.io/blog/2014/07/04/from-object-to-functional-immutability/ "Immutability in Ruby")
   ### Style & Documentation
