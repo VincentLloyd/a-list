@@ -13,3 +13,7 @@
   * [Ruby style guide by Airbnb](https://github.com/airbnb/ruby)
   * [Ruby style guide by Bozhidar Batsov](https://github.com/bbatsov/ruby-style-guide)
   * [Ruby style guide by GitHub](https://github.com/github/rubocop-github/blob/master/STYLEGUIDE.md)
+  ### Classes
+  * ####Struct
+    * [Working with Structs in Ruby](http://culttt.com/2015/04/15/working-with-structs-in-ruby/)
+    * [The simple but powerful Ruby Struct](https://www.leighhalliday.com/ruby-struct)
